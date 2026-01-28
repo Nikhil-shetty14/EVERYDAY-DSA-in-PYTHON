@@ -1,6 +1,5 @@
 # 🐍 Every Day in Python
-
-> **Consistency beats intensity.**  
+ **Consistency beats intensity.**  
 This repository tracks my journey of coding in **Python every single day** to strengthen problem-solving skills, logic building, and core Computer Science concepts.
 
 ---
@@ -60,4 +59,5 @@ cd every-day-python
 Run any Python file:
 
 python filename.py
+
 
