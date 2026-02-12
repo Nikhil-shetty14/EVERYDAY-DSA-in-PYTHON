@@ -53,11 +53,12 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/every-day-python.git
-cd every-day-python
+cd EVERYDAY-DSA-in-PYTHON
 
 
 Run any Python file:
 
 python filename.py
+
 
 
